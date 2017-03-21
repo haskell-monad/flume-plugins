@@ -1,5 +1,7 @@
 # flume-plugins
 
+###配置示例
+``` 
 #多行匹配、断点续传
 #默认会保存在本地redis的哈希FLUME_CONFIG中，key为CURRENT_LINE，value为读取到的行
 #默认使用的db是4
